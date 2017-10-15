@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/DespiteDeath/Stack_4.svg?branch=master)](https://travis-ci.org/DespiteDeath/Stack_4)
 
 # Stack_4
 
